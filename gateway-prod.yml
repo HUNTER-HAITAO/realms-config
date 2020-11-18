@@ -9,5 +9,4 @@ jhipster:
         authentication:
             jwt:
                 #secret: bXktc2VjcmV0LXRva2VuLXRvLWNoYW5nZS1pbi1wcm9kdWN0aW9uLWFuZC10by1rZWVwLWluLWEtc2VjdXJlLXBsYWNl
-                base64-secret: YlhrdGMyVmpjbVYwTFhSdmEyVnVMWFJ2TFdOb1lXNW5aUzFwYmkxd2NtOWtkV04wYVc5dUxXRnVa
-QzEwYnkxclpXVndMV2x1TFdFdGMyVmpkWEpsTFhCc1lXTmwK
+                base64-secret: YlhrdGMyVmpjbVYwTFhSdmEyVnVMWFJ2TFdOb1lXNW5aUzFwYmkxd2NtOWtkV04wYVc5dUxXRnVaQzEwYnkxclpXVndMV2x1TFdFdGMyVmpkWEpsTFhCc1lXTmwK
