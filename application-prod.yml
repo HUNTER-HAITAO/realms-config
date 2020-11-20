@@ -1,0 +1,5 @@
+# Property used on app startup to check the config server status
+configserver:
+    name: realms config server
+    status: Connected to the realms config server, using https://github.com/HUNTER-HAITAO/realms-config !
+
